@@ -1,1 +1,7 @@
-
+{
+  "providerID":   "adtonos",
+  "baseURL":      "https://play.adtonos.com",
+  "apiKey":       null,
+  "enabled":      false,
+  "providerType": "adtonos"
+}
